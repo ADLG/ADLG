@@ -60,8 +60,7 @@
 ---
 <div>
 ### 📊 My Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D)
-(https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ADLG&show_icons=true&theme=dark)
 
