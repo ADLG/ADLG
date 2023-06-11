@@ -1,4 +1,4 @@
-### Hola, Bienvenid@s a mi perfil y repositorios de GitHub. 👋
+<h1> Hola, Bienvenid@s a mi perfil y repositorios de GitHub. 👋 </h1>
 
 ---
 ### 📗 Acerca de mi:
@@ -11,4 +11,7 @@
 <h3>Lenguajes</h3>
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="aaaaaaaa">
+  
 </div>
