@@ -17,7 +17,8 @@
  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white">
----
+</div>
+	
 <h3>Editores de texto utilizados</h3>
 <div>
 	<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
@@ -66,3 +67,4 @@
  <img height="180em" src="https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D"> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADLG&show_icons=true&theme=dark">
 </div>	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADLG&layout=compact)
