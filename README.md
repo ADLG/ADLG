@@ -8,6 +8,8 @@
 - 👨‍💻 He usado Frameworks como Spring o Django.
 - 👨‍💼 ... Buscando oportunidades laborales.
 
+---
+
 <h3>Lenguajes de programación utilizados</h3>
 <div>
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -58,8 +60,8 @@
 </div>
 
 ---
-<div>
 ### 📊 My Stats:
+<div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ADLG&show_icons=true&theme=dark)
