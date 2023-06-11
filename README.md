@@ -66,5 +66,6 @@
  <a href="https://github.com/ADLG">
  <img height="180em" src="https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D"> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADLG&show_icons=true&theme=dark">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADLG&layout=compact">
 </div>	
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADLG&layout=compact">
+ 
