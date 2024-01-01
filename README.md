@@ -2,7 +2,7 @@
 
 ---
 ### 📗 Acerca de mi:
-- 🏫 Estudié la carrera de ciencias de la computación en la Facultad de Ciencias, UNAM.
+- 🏫 Estudié la carrera de Ciencias de la Computación en la Facultad de Ciencias, UNAM.
 - 🥇 Me gusta la programación orientada a objetos.
 - 📄 Se tratar con Java, Python, HTML y CSS.
 - 👨‍💻 He usado Frameworks como Spring o Django.
@@ -63,9 +63,9 @@
 ### 📊 My Stats
 <div>
   <a href="https://github.com/ADLG">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ADLG"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ADLG&theme=one_dark_pro"/>
   <img height=180 align="center" src="https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D"/>
-  <img height=247 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ADLG&layout=compact&langs_count=8&card_width=320&hide=makefile,perl,shell"/>
+  <img height=247 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ADLG&layout=compact&langs_count=6&card_width=320&hide=c,perl,shell&theme=chartreuse-dark"/>
   </a>
 </div>
 
