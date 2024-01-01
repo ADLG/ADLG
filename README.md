@@ -2,7 +2,7 @@
 
 ---
 ### 📗 Acerca de mi:
-- 🏫 Estoy estudiando ciencias de la computación en la Facultad de Ciencias, UNAM.
+- 🏫 Estudié la carrera de ciencias de la computación en la Facultad de Ciencias, UNAM.
 - 🥇 Me gusta la programación orientada a objetos.
 - 📄 Se tratar con Java, Python, HTML y CSS.
 - 👨‍💻 He usado Frameworks como Spring o Django.
