@@ -63,8 +63,8 @@
 ### 📊 My Stats
 <div>
  <p align='center'><a href="https://github.com/ADLG">
- <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ADLG&theme=one_dark_pro"/>
- <img height=180 align="center" src="https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D"/>
- <img height=247 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ADLG&layout=compact&langs_count=6&card_width=320&hide=c,perl,shell&theme=chartreuse-dark"/>
+ <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=ADLG&theme=one_dark_pro"/>
+ <img height=140 align="center" src="https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D"/>
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ADLG&layout=compact&langs_count=6&card_width=320&hide=c,perl,shell&theme=chartreuse-dark"/>
  </a></p>
 </div>
