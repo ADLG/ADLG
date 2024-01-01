@@ -72,10 +72,10 @@
 ### 🧱 Repositorios Main
 <div>
 <a href="https://github.com/ADLG/Seminario-A-Desarrollo-Web-Backend-2023-1"><img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Seminario-A-Desarrollo-Web-Backend-2023-1&theme=chartreuse-dark"/></a>
-<a href="https://github.com/ADLG/Ingenieria-2023-2-Proyecto-Final"><img height=90 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Ingenieria-2023-2-Proyecto-Final&theme=chartreuse-dark"/></a>
+<a href="https://github.com/ADLG/Ingenieria-2023-2-Proyecto-Final"><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Ingenieria-2023-2-Proyecto-Final&theme=chartreuse-dark"/></a>
 <a href="https://github.com/ADLG/Fund4mentos-de-B4ses-de-D4tos-2022-1"><img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Fund4mentos-de-B4ses-de-D4tos-2022-1&theme=chartreuse-dark"/></a>
 <a href="https://github.com/ADLG/Model4do-y-Progr4macion-2020-2"><img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Model4do-y-Progr4macion-2020-2&theme=chartreuse-dark"/></a>
-<a href="https://github.com/ADLG/Comput4cion-C0ncurrente-2024-1"><img height=90 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Comput4cion-C0ncurrente-2024-1&theme=chartreuse-dark"/></a>
+<a href="https://github.com/ADLG/Comput4cion-C0ncurrente-2024-1"><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Comput4cion-C0ncurrente-2024-1&theme=chartreuse-dark"/></a>
 <a href="https://github.com/ADLG/Tecnologi4s-para-Des4rrollos-en-Intern3t-2023-1"><img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Tecnologi4s-para-Des4rrollos-en-Intern3t-2023-1&theme=chartreuse-dark"/></a>
 </div>
 
