@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 </div>
 
 <h3>Sistema operativo utilizado</h3>
@@ -59,13 +60,26 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
+<h3>Otras Herramientas</h3>
+<div>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black">
+  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+</div>
+
 ---
 ### 📊 My Stats
 <div>
  <p align='center'><a href="https://github.com/ADLG">
- <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ADLG&theme=one_dark_pro"/>
- <img height=160 align="center" src="https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D"/>
- <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ADLG&layout=compact&langs_count=6&card_width=320&hide=c,perl,shell&theme=holi"/>
+ <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ADLG&theme=one_dark_pro"/>&nbsp&nbsp&nbsp
+ <img height=160 align="center" src="https://streak-stats.demolab.com?user=ADLG&theme=dark&date_format=j%20M%5B%20Y%5D"/><br><br>
+ <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ADLG&layout=compact&langs_count=6&card_width=320&hide=c,perl,shell&theme=codeSTACKr"/>
  </a></p>
 </div>
 
