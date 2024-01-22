@@ -5,7 +5,7 @@
 - 🏫 Estudié la carrera de Ciencias de la Computación en la Facultad de Ciencias, UNAM.
 - 🥇 Me gusta la programación orientada a objetos.
 - 📄 Se tratar con Java, Python, HTML y CSS.
-- 👨‍💻 He usado Frameworks como Spring o Django.
+- 👨‍💻 He usado Frameworks como Spring y Django.
 - 👨‍💼 ... Buscando oportunidades laborales.
 
 ---
