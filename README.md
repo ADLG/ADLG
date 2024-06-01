@@ -95,13 +95,13 @@
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Pruebas-unitarias-con-JUnit-Spring-Boot&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/ADLG/Sping-Boot-Microservicios">
-	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Sistema-de-trailers-de-peliculas-Spring-Boot&theme=chartreuse-dark"/>
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Sping-Boot-Microservicios&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/ADLG/Mockito-JUnit-Tests-Spring-Boot">
-	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Sistema-de-trailers-de-peliculas-Spring-Boot&theme=chartreuse-dark"/>
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Mockito-JUnit-Tests-Spring-Boot&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/ADLG/Sistema-de-inventario-en-Spring-Boot">
-	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Sistema-de-trailers-de-peliculas-Spring-Boot&theme=chartreuse-dark"/>
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ADLG&repo=Sistema-de-inventario-en-Spring-Boot&theme=chartreuse-dark"/>
 </a>
 </div>
 
