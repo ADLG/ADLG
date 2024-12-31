@@ -6,7 +6,7 @@
 - 🥇 Me gusta la programación orientada a objetos.
 - 📄 Se tratar con Java, Python, HTML y CSS.
 - 👨‍💻 He usado Frameworks como Spring y Django.
-- 👨‍💼 ... Buscando oportunidades laborales.
+- 🛅 En servicio ...
 
 ---
 
